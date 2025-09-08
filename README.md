@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darkfalcone
 - 👀 I’m interested in ...Web Development/Cyber Security
-- 🌱 I’m currently learning ...Full Stack
+- 🌱 I’m currently learning ...Network Administration
 - 💞️ I’m looking to collaborate on ...any challenge
 - 📫 How to reach me ...The usual spots
 
